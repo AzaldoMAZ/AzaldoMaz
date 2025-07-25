@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Network+Engineer+%26+Cybersecurity+Specialist;Passionate+About+Network+Security;Always+Learning+New+Technologies)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Network+Engineer+%26+Cybersecurity+Specialist;Passionate+About+Network+Security;Always+Learning+New+Technologies)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azaldo-mazibuko)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzaldoMAZ)
@@ -16,7 +16,7 @@
 
 I'm a passionate **Network Engineer** and **Cybersecurity Enthusiast** dedicated to securing digital infrastructures and optimizing network performance. Currently pursuing advanced certifications and hands-on experience through various projects and internships.
 
-💼 **Current Role**: Security Analyst  ( AICTE Oasis Infobyte Internship) <br>
+💼 **Current Role**: Security Analyst  - internship <br>
 🎯 **Focus Areas**: Network Security | Threat Analysis | Infrastructure Design  
 📚 **Learning Path**: Advanced Cisco Technologies | Penetration Testing | Cloud Security  
 🚀 **Mission**: Building secure, resilient network infrastructures
